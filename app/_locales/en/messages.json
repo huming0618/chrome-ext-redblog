@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "red blog grab ext",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "red_blog_grab",
+    "description": "The description of the application"
+  }
+}
